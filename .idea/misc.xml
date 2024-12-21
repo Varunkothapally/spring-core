@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/strategy-pattern/pom.xml" />
+        <option value="$PROJECT_DIR$/primitive-dependency-injection/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-annotations/pom.xml" />
+        <option value="$PROJECT_DIR$/singleton-bean-scope/pom.xml" />
+        <option value="$PROJECT_DIR$/singleton-design-pattern/pom.xml" />
+        <option value="$PROJECT_DIR$/nested-bean-factories/pom.xml" />
+        <option value="$PROJECT_DIR$/bean-lifecycle/pom.xml" />
+        <option value="$PROJECT_DIR$/aware-injection/pom.xml" />
+        <option value="$PROJECT_DIR$/factory-beans/pom.xml" />
+        <option value="$PROJECT_DIR$/java-i18n/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_17" default="true" project-jdk-name="17" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>
